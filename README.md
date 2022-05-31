@@ -1,2 +1,3 @@
 # svg-to-png-or-svg
-Created with CodeSandbox
+
+Simple functions to download svg node as png or svg file.
